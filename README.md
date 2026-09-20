@@ -38,6 +38,3 @@ The dataset includes product details such as:
 🛠️ Tools & Techniques
 - Microsoft Excel  
 - Functions: SUM, COUNT, AVERAGE, MIN, MAX, IF, SUMIF, COUNTIF, LEFT, RIGHT, MID 
-- Build Pivot Tables & Charts for visualization  
-- Extend analysis with Python (Pandas, NumPy)  
-- Integrate with Power BI for dashboards  
